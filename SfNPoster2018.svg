@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="0.34"
-     inkscape:cx="2886.1441"
-     inkscape:cy="1851.9721"
+     inkscape:zoom="0.68"
+     inkscape:cx="3253.3583"
+     inkscape:cy="1507.3919"
      inkscape:document-units="in"
-     inkscape:current-layer="g37585"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="2510"
      inkscape:window-height="1340"
@@ -57,6 +57,48 @@
   </sodipodi:namedview>
   <defs
      id="defs3763">
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path45263"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker47106"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path45272"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="StopL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="StopL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path45408"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
     <linearGradient
        id="linearGradient28573"
        osb:paint="solid">
@@ -176,7 +218,7 @@
        inkscape:isstock="true">
       <path
          id="path7462"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#57068c;stroke-opacity:1;fill:#57068c;fill-opacity:1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
     </marker>
@@ -5125,78 +5167,6 @@
          style="font-size:0.625px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke-width:0.01041667">Models predict distinct time lags and phase relationships </tspan></text>
     <flowRoot
        xml:space="preserve"
-       id="flowRoot1046"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4a4f55;fill-opacity:1;stroke:none"
-       transform="matrix(0.01041667,0,0,0.01041667,10.810371,-10.256372)"><flowRegion
-         id="flowRegion1048"
-         style="line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"><rect
-           id="rect1050"
-           width="594.05975"
-           height="803.83887"
-           x="107.52"
-           y="2676.48"
-           style="line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara1052"
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1">• The two models in practice look very similar. Particularly at higher frequencies.</flowPara><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara44845" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27013" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara6264" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara3367" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27011" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara2823" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara44849">• Oscillator model provides important theoretical benefits (e.g. flexible prediction) that the evoked model cannot.</flowPara><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27053" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27055" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27051" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27047" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27049" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27017" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27019" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara3369" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27015" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara12536" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27035" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27037" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27039" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27041" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27043" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27045" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27057" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara27059">• Probing the relationship between the phase of sync and the frequency of stimulation will allow for model distinction and to see which model best represents human data. </flowPara><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara12502" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara12504" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara12506" /><flowPara
-         style="font-size:42.66665268px;line-height:1;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-         id="flowPara12508" /></flowRoot>    <flowRoot
-       xml:space="preserve"
        id="flowRoot1116"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion1118"
@@ -5392,7 +5362,7 @@
        xml:space="preserve"
        id="flowRoot17628"
        style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.10000002;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000055;fill-opacity:1;stroke:none"
-       transform="matrix(0.01041667,0,0,0.01041667,5.2642813e-6,3.6625008)"><flowRegion
+       transform="matrix(0.01041667,0,0,0.01041667,5.2642813e-6,3.7041674)"><flowRegion
          id="flowRegion17630"
          style="line-height:1.10000002;text-align:justify;text-anchor:start;fill:#000055;fill-opacity:1"><rect
            id="rect17632"
@@ -5437,13 +5407,13 @@
          id="flowPara8069"
          style="line-height:1.10000002;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"><flowSpan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.10000002;font-family:Georgia;-inkscape-font-specification:Georgia"
-           id="flowSpan2942">• </flowSpan><flowSpan
+           id="flowSpan2942">• The Phase Concentration Metric across stimulation rates successfully distinguishes the evoked and oscillatory models</flowSpan><flowSpan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.10000002;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
-           id="flowSpan8067">The two models, evoked and oscillator, show two distinct phase patterns: spread around the circle vs phase consistency.</flowSpan></flowPara><flowPara
+           id="flowSpan8067">.</flowSpan></flowPara><flowPara
          id="flowPara8089"
          style="line-height:1.10000002;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1" /><flowPara
          id="flowPara8077"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.10000002;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1">• The MEG data shows more phase consistency as predicted by the wilson-cowan model.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.10000002;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1">• The PCM of the MEG data is better predicted by the oscillatory model.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.10000002;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#4a4f55;fill-opacity:1"
          id="flowPara8091" /><flowPara
          id="flowPara8081"
@@ -17198,7 +17168,7 @@
              id="tspan80788"
              x="80.624435"
              y="269.57852"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1696775px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.34783015">Neural Frequency</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1696775px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.34783015;fill:#4a4f55">Neural Frequency</tspan></text>
         <g
            id="g2106"
            transform="matrix(0.64186436,0,0,0.67314123,69.452545,45.840724)">
@@ -18044,7 +18014,7 @@
                  y="-5"
                  xml:space="preserve"
                  x="76.938812"><tspan
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.2508316px;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.2508316px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#4a4f55"
                    id="tspan81005">CA Coherence</tspan></text>
             </g>
           </g>
@@ -18060,7 +18030,7 @@
              id="tspan81001"
              x="86.070877"
              y="210.88066"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1696775px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.17391507">Study 1</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1696775px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.17391507;fill:#4a4f55">Study 1</tspan></text>
         <g
            id="g45167"
            transform="matrix(1.0851194,0,0,1.0851194,-7.1875183,-20.493311)">
@@ -18915,7 +18885,7 @@
                style="font-size:34.2508316px;stroke:none"
                id="text80297-3"><tspan
                  id="tspan81005-8"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.2508316px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">CA Coherence</tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.2508316px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#4a4f55">CA Coherence</tspan></text>
           </g>
           <text
              transform="scale(0.97649165,1.0240743)"
@@ -18924,7 +18894,7 @@
              x="85.949043"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1696775px;line-height:4.34787655px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17391507"
              xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1696775px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.17391507"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1696775px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.17391507;fill:#4a4f55"
                y="240.40814"
                x="85.949043"
                id="tspan81001-0"
@@ -19515,7 +19485,9 @@
              style="font-size:29.11452484px;stroke:none"
              y="-4"
              xml:space="preserve"
-             x="-63">Left Hemisphere</text>
+             x="-63"><tspan
+               style="fill:#4a4f55"
+               id="tspan45173">Left Hemisphere</tspan></text>
         </g>
         <g
            id="g78288"
@@ -19618,7 +19590,9 @@
              style="font-size:29.11452484px;stroke:none"
              y="-4"
              xml:space="preserve"
-             x="-68.5">Right Hemisphere</text>
+             x="-68.5"><tspan
+               style="fill:#4a4f55"
+               id="tspan45175">Right Hemisphere</tspan></text>
         </g>
         <g
            id="g81751"
@@ -19782,7 +19756,7 @@
            x="367.80655"
            y="367.58713"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:2.7294867"
-           id="tspan24817-3">3π/2</tspan></text>
+           id="tspan24817-3">3π-/2</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.83589363px;line-height:52.33335876px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.7294867;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
@@ -20351,49 +20325,49 @@
           <text
              transform="matrix(1.0210293,-0.14437269,0.15392942,0.95763834,0,0)"
              id="text35166"
-             y="443.36307"
-             x="62.768955"
+             y="451.15436"
+             x="61.594353"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.75057983px;line-height:88.75359344px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.55014372"
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.75057983px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#008996;stroke:none;stroke-width:3.55014372"
-               y="443.36307"
-               x="62.768955"
+               y="451.15436"
+               x="61.594353"
                id="tspan35164"
                sodipodi:role="line">Evoked</tspan></text>
           <text
              transform="matrix(1.0157882,-0.17387986,0.1853898,0.95272268,0,0)"
              id="text35166-4"
-             y="474.16858"
-             x="184.34239"
+             y="481.91989"
+             x="182.92775"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.75057983px;line-height:88.75359344px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';letter-spacing:0px;word-spacing:0px;color-interpolation:auto;fill:#57068c;fill-opacity:1;stroke:none;stroke-width:3.55014372;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.75057983px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#57068c;stroke:none;stroke-width:3.55014372"
-               y="474.16858"
-               x="184.34239"
+               y="481.91989"
+               x="182.92775"
                id="tspan35164-2"
                sodipodi:role="line">Oscillator</tspan></text>
           <text
              transform="matrix(1.0129989,-0.18764888,0.20007028,0.95010669,0,0)"
              id="text35166-4-8"
-             y="504.86737"
-             x="322.34842"
+             y="512.59735"
+             x="320.82178"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.75057983px;line-height:88.75359344px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';letter-spacing:0px;word-spacing:0px;color-interpolation:auto;fill:#4a4f55;fill-opacity:1;stroke:none;stroke-width:3.55014372;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.75057983px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#4a4f55;stroke:none;stroke-width:3.55014372"
-               y="504.86737"
-               x="322.34842"
+               y="512.59735"
+               x="320.82178"
                id="tspan35164-2-5"
                sodipodi:role="line">Left Hemi</tspan></text>
           <text
              transform="matrix(1.0206186,-0.1469045,0.15662884,0.95725329,0,0)"
              id="text35166-4-8-8"
-             y="512.90881"
-             x="510.56326"
+             y="520.6969"
+             x="509.36804"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.75057983px;line-height:88.75359344px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';letter-spacing:0px;word-spacing:0px;color-interpolation:auto;fill:#4a4f55;fill-opacity:1;stroke:none;stroke-width:3.55014372;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.75057983px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#4a4f55;stroke:none;stroke-width:3.55014372"
-               y="512.90881"
-               x="510.56326"
+               y="520.6969"
+               x="509.36804"
                id="tspan35164-2-5-2"
                sodipodi:role="line">Right Hemi</tspan></text>
           <g
@@ -20473,7 +20447,7 @@
          x="-19.454601"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.22509329px;line-height:0.40460524px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0211025"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.22509329px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.0211025"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.22509329px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.0211025;fill:#4a4f55"
            y="38.660202"
            x="-19.454601"
            id="tspan81372"
@@ -20493,7 +20467,7 @@
     <g
        style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        id="g6171"
-       transform="matrix(0.01119405,0,0,0.01119405,25.759959,30.263914)">
+       transform="matrix(0.01119405,0,0,0.01119405,25.759959,30.263915)">
       <g
          id="g5296">
         <defs
@@ -24019,11 +23993,11 @@
        x="-39.213745"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.38700303px;line-height:0.79501492px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04146462"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.33171695px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.04146462"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.33171695px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#4a4f55;stroke-width:0.04146462"
          y="39.528587"
          x="-39.213745"
          id="tspan24553"
-         sodipodi:role="line">Phase Consistency</tspan></text>
+         sodipodi:role="line">Phase Concentration</tspan></text>
     <text
        transform="rotate(-90)"
        inkscape:transform-center-y="-36.109795"
@@ -24033,11 +24007,11 @@
        x="-33.244133"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.38700303px;line-height:0.79501492px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04146462"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.33171695px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.04146462"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.33171695px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#4a4f55;stroke-width:0.04146462"
          y="39.528587"
          x="-33.244133"
          id="tspan24553-5"
-         sodipodi:role="line">Phase Consistency</tspan></text>
+         sodipodi:role="line">Phase Concentration</tspan></text>
     <g
        id="g23470"
        transform="matrix(0.15671663,0,0,0.15671663,27.527265,-5.9008752)">
@@ -24873,15 +24847,15 @@
       <text
          transform="matrix(0.92446812,-0.34502741,0.34638173,0.95242744,0,0)"
          id="text35166-4-8-8-3-5"
-         y="271.41776"
-         x="7.2732058"
+         y="271.52518"
+         x="7.5697765"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.65087116px;line-height:3.88128495px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';letter-spacing:0px;word-spacing:0px;color-interpolation:auto;fill:#4a4f55;fill-opacity:1;stroke:none;stroke-width:0.1552514;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
          xml:space="preserve"
          inkscape:transform-center-x="3.2065932"
          inkscape:transform-center-y="0.92814858"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76388896px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#4a4f55;stroke:none;stroke-width:0.1552514"
-           y="271.41776"
-           x="7.2732058"
+           y="271.52518"
+           x="7.5697765"
            id="tspan35164-2-5-2-7-8"
            sodipodi:role="line">Right Hemi</tspan></text>
     </g>
@@ -25886,7 +25860,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.41666666px;line-height:0.41666666px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#ffffff"
-         id="flowPara26735">Model output synchrony varies as note rate moves away from the oscillator's resting frequency but the <flowSpan
+         id="flowPara26735">Model output synchrony varies as the note rate moves away from the oscillator's resting frequency but the <flowSpan
    style="font-weight:bold;font-size:0.41666666px"
    id="flowSpan26708">phase is consistent. </flowSpan> Interesting here is the 5 &amp; 8 nps condition which show high synchrony at a separate phase and may reflect a different mechanism similar to steady-state response.</flowPara></flowRoot>    <image
        y="38.851562"
@@ -25959,20 +25933,20 @@
     <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="-0.47743049"
-       inkscape:original="M 35.6875 24.798828 L 35.6875 28.470703 L 45 28.470703 L 45 24.798828 L 35.6875 24.798828 z "
+       inkscape:original="M 35.6875 25.328125 L 35.6875 28.478516 L 45 28.478516 L 45 25.328125 L 35.6875 25.328125 z "
        xlink:href="#rect26772-2"
        style="opacity:1;fill:#939a90;fill-opacity:1;stroke:none;stroke-width:0.05000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path26780-3"
        inkscape:href="#rect26772-2"
-       d="m 36.164062,25.296875 v 2.71875 h 8.359376 v -2.71875 z"
-       transform="translate(-0.45833333,0.14583332)" />
+       d="m 36.164062,25.275391 v 2.199218 h 8.359376 v -2.199218 z"
+       transform="translate(-0.45833333,-0.38289806)" />
     <rect
        style="opacity:1;fill:#939a90;fill-opacity:1;stroke:none;stroke-width:0.03527372;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter29873)"
        id="rect26772-2"
-       width="9.3107653"
-       height="3.6718786"
+       width="9.3107643"
+       height="3.1510463"
        x="35.688366"
-       y="24.799475" />
+       y="25.328207" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.4444446px;line-height:0.44444445px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667"
@@ -25991,19 +25965,20 @@
          id="flowPara26822-9">To understand the relationship between evoked and oscillator components of the underlying signal we created stimuli which modulate the evoked response by changing the attack of each note.</flowPara></flowRoot>    <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="-0.3333337"
-       inkscape:original="M 19.041016 30.521484 L 19.041016 39.4375 L 26.916016 39.4375 L 26.916016 30.521484 L 19.041016 30.521484 z "
+       inkscape:original="M 19.041016 30.515625 L 19.041016 38.849609 L 26.916016 38.849609 L 26.916016 30.515625 L 19.041016 30.515625 z "
        xlink:href="#rect26943"
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.05000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path26945"
        inkscape:href="#rect26943"
-       d="m 19.375,30.8125 v 8.25 h 7.207031 v -8.25 z" />
+       d="m 19.375,30.849609 v 7.666016 h 7.207031 v -7.666016 z"
+       transform="translate(0,0.00511096)" />
     <rect
        style="opacity:1;fill:#939a90;fill-opacity:1;stroke:none;stroke-width:0.05000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter29885)"
        id="rect26943"
-       width="7.8750024"
-       height="8.9166698"
+       width="7.8750019"
+       height="8.3345642"
        x="19.041674"
-       y="30.520851" />
+       y="30.515739" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.4444446px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667"
@@ -26024,7 +25999,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#ffffff"
          id="flowPara26967" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#ffffff"
-         id="flowPara26969">By smoothing the attack we better approximate the true PCM of the oscillator component  in auditory cortex.</flowPara></flowRoot>    <path
+         id="flowPara26969">By smoothing the attack,= we better approximate the true PCM of the oscillator component  in auditory cortex.</flowPara></flowRoot>    <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="-0.20833296"
        inkscape:original="M 11.208984 25.966797 L 11.208984 28.716797 L 18.125 28.716797 L 18.125 25.966797 L 11.208984 25.966797 z "
@@ -26126,6 +26101,45 @@
          id="tspan45169"
          x="39.96085"
          y="5.5526981"
-         style="stroke-width:0.01041667">Functional Auditory Localizer</tspan></text>
+         style="stroke-width:0.01041667;-inkscape-font-specification:'Arial Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#4a4f55">Functional Auditory Localizer</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot45215"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:19.17333412px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.01041667,0,0,0.01041667,16.911765,0.53595201)"><flowRegion
+         id="flowRegion45217"><rect
+           id="rect45219"
+           width="605.88239"
+           height="749.99994"
+           x="-482.35294"
+           y="1597.7646" /></flowRegion><flowPara
+         id="flowPara45221"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#4a4f55">• The two models, in practice, look very similar, particularly at higher frequencies.</flowPara><flowPara
+         id="flowPara45223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#4a4f55"> </flowPara><flowPara
+         id="flowPara45225"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#4a4f55">• Oscillator model provides important theoretical benefits (e.g. flexible prediction) that the evoked model can not.</flowPara><flowPara
+         id="flowPara45227"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#4a4f55"> </flowPara><flowPara
+         id="flowPara45229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#4a4f55">• Probing the relationship between the phase of sync and the frequency of stimulation will allow for model distinction and to see which model best represents human data. </flowPara><flowPara
+         id="flowPara45231"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;text-anchor:start;fill:#4a4f55" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.64119619px;line-height:0.28813753px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01502804"
+       x="45.224529"
+       y="34.575256"
+       id="text46705"><tspan
+         sodipodi:role="line"
+         id="tspan46703"
+         x="45.224529"
+         y="34.575256"
+         style="fill:#000000;stroke-width:0.01502804">*</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.03;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:"
+       d="m 44.389162,36.992206 c 0.939913,-1.118065 0.988763,-4.839181 -0.04333,-5.502608"
+       id="path47103"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
